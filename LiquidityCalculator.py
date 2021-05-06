@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon May  3 18:43:36 2021
-
 @author: alessiosca
 """
 
@@ -9,6 +8,7 @@ import requests
 
 
 print("\nLiquidity Calculator (Binance Liquid Swap, PancakeSwap etc)\n")
+print("### THIS ONLY WORKS WITH STABLECOINS LPs! ###")
 print("### USE THE DOT FOR DECIMAL NUMBERS  ###")
 
 request=input('Have you got liquidity into BNB/BUSD? y/N: ')
