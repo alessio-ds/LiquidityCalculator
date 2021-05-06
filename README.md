@@ -2,7 +2,7 @@
 Liquid Swap / PancakeSwap Liquidity Pool calculator.
 
 ![](https://i.imgur.com/Aafj6QP.png)
-
+### THIS ONLY WORKS WITH STABLECOINS LPs! ###
 If you want to calculate the swap in prices on the couple BNB/BUSD, it will collect data from CoinMarketCap to get the actual price of BNB in BUSD.
 
 # How to install:
