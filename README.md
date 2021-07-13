@@ -15,7 +15,7 @@ You will need to install the [requests](https://pypi.org/project/requests/ "requ
 
 
 ### **Windows**:
-**Download the latest build [here](https://github.com/AlessioScarlet/LiquidityCalculator/raw/main/LiquidityCalculator.exe)**
+**Download the latest build [here](https://github.com/alessio-ds/LiquidityCalculator/raw/main/LiquidityCalculator.exe)**
 
 I compiled it with [autopytoexe](https://pypi.org/project/auto-py-to-exe/).
 It will take some time to load (about 5 seconds).
